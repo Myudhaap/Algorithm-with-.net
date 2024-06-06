@@ -1,0 +1,14 @@
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\bin\Debug\net8.0\TahapAkhirOCBC.exe
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\bin\Debug\net8.0\TahapAkhirOCBC.deps.json
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\bin\Debug\net8.0\TahapAkhirOCBC.runtimeconfig.json
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\bin\Debug\net8.0\TahapAkhirOCBC.dll
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\bin\Debug\net8.0\TahapAkhirOCBC.pdb
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.AssemblyInfoInputs.cache
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.AssemblyInfo.cs
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.csproj.CoreCompileInputs.cache
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.dll
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\refint\TahapAkhirOCBC.dll
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.pdb
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\TahapAkhirOCBC.genruntimeconfig.cache
+C:\Yudha\tes\TahapAkhirOcbc\TahapAkhirOCBC\TahapAkhirOCBC\obj\Debug\net8.0\ref\TahapAkhirOCBC.dll
