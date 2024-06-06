@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TahapAkhirOCBC", "TahapAkhirOCBC\TahapAkhirOCBC.csproj", "{16454EED-869B-46D6-B1DF-B23B5D81C166}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithm", "Algorithm\Algorithm.csproj", "{16454EED-869B-46D6-B1DF-B23B5D81C166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
